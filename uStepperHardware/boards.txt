@@ -19,7 +19,7 @@ uStepperS.bootloader.file=optiboot_atmega328pb.hex
 uStepperS.build.mcu=atmega328pb
 uStepperS.build.f_cpu=16000000L
 uStepperS.build.board=AVR_USTEPPER_S
-uStepperS.build.core=arduino:arduino
+uStepperS.build.core=arduino
 uStepperS.build.variant=ustepperS
 
 ##############################################################
